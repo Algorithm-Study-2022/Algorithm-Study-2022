@@ -2,8 +2,8 @@
 ***
 ### 스터디 참여자👨‍👨‍👦‍👦
 1. 김동건(KDG) - GitHub URL: https://github.com/DongGeon2<a href="https://github.com/DongGeon2"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-2. 백경성(BKS) - GitHub URL: https://github.com/kyoungsungBack
-3. 이태영(LTY) - GitHub URL: https://github.com/epzlfnql
+2. 백경성(BKS) - GitHub URL: https://github.com/kyoungsungBack<a href="https://github.com/kyoungsungBack"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+3. 이태영(LTY) - GitHub URL: https://github.com/epzlfnql<a href="https://github.com/epzlfnql"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 4. 황지훈(HJH) - 중도하차(사유: 취업)
 5. 구병민(KBM) - 중도하차(사유: 취업)
 
